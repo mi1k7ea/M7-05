@@ -1,0 +1,11 @@
+[*]Scan Task at 2020-09-06 16:38:53.581886
+[*]Scan Path: /tmp/test/
+[*]High Privilege User: root
+[*]Low Privilege User: git
+[!]Found By ShellScriptScanner!
+[+]High privilege user's shell script: /tmp/test/a.sh
+[+]Low privilege user's shell script: b.sh
+[+]Low privilege user's shell script: c.sh
+[!]Found in crontab!
+[+]Low privilege user's shell script in crontab: crontab_test.sh
+[*]Finished.
